@@ -1,0 +1,35 @@
+_repo: Varjojen-kauttaNykyajan-kuvaus_37349
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Rytkönen, Enok
+    gutenberg_agent_id: '38786'
+    url: http://www.gutenberg.org/2009/agents/38786
+  - agent_name: Finerus, Siiri
+    gutenberg_agent_id: '38785'
+    url: http://www.gutenberg.org/2009/agents/38785
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roos, Mathilda
+    birthdate: 1852
+    deathdate: 1908
+    gutenberg_agent_id: '5981'
+    url: http://www.gutenberg.org/2009/agents/5981
+    wikipedia: http://sv.wikipedia.org/wiki/Mathilda_Roos
+description: ''
+gutenberg_issued: '2011-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37349'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: 'Varjojen kautta: Nykyajan kuvaus'
+url: http://www.gutenberg.org/ebooks/37349
